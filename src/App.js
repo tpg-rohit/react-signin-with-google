@@ -2,8 +2,8 @@ import { Auth, Hub } from "aws-amplify";
 import React, { useEffect, useState } from "react";
 import awsConfiguration from './aws-exports';
 
-// awsConfiguration.oauth.redirectSignIn = 'https://master.d3argnuplyf2bl.amplifyapp.com/';
-// awsConfiguration.oauth.redirectSignOut = 'https://master.d3argnuplyf2bl.amplifyapp.com/';
+awsConfiguration.oauth.redirectSignIn = 'https://master.d3argnuplyf2bl.amplifyapp.com/';
+awsConfiguration.oauth.redirectSignOut = 'https://master.d3argnuplyf2bl.amplifyapp.com/';
 
 Auth.configure(awsConfiguration);
 
