@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactsigninwithgoogl-dev-103620-authRole",
+      "UnauthRoleArn": "arn:aws:iam::008616589077:role/amplify-reactsigninwithgoogl-dev-103620-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::008616589077:role/amplify-reactsigninwithgoogl-dev-103620-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-reactsigninwithgoogl-dev-103620-deployment",
+      "UnauthRoleName": "amplify-reactsigninwithgoogl-dev-103620-unauthRole",
+      "StackName": "amplify-reactsigninwithgoogl-dev-103620",
+      "StackId": "arn:aws:cloudformation:us-east-1:008616589077:stack/amplify-reactsigninwithgoogl-dev-103620/fef5ebb0-20e2-11ec-80ae-125f36841fd5",
+      "AmplifyAppId": "d3argnuplyf2bl"
+    },
+    "categories": {
+      "auth": {
+        "reactsigninwithgoogl15301d6215301d62": {}
+      }
+    }
+  }
+}

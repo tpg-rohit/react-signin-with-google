@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "reactsigninwithgoogl15301d6215301d62": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
